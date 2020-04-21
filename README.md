@@ -1,4 +1,4 @@
-# This is a GPS mocker for iPhone
+# This is a GPS Mocking Program for iPhone
 
 To use it, first you need to excute the Updateloc.py in SimuLoc folder. You need also revised the parameters in the parameters region to let the route fit your playground. Then the Location.gpx will be updated to your current time, also randomized the path.
 
